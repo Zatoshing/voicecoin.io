@@ -226,18 +226,18 @@ var app = new Vue({
 				aa: {
 					h2: 'ADVISORS/INVESTORS',
 					i: [{
-							h4: 'Ruxiong Li',
-							h5: 'Startup Mentor',
-							p1: "Startup Mentor,Founder of Federal Software, China’s biggest software circulation company; Executive Director of China software industry association. Optics Valley Startup Cafe, Founder",
+							h4: 'Min H. Kim',
+							h5: 'Investor Relations Advisor',
+							p1: "Head of BD at The Bee Token, decentralized Airbnb. Previously was Chief of Staff at Civic Technologies and Marketing & Partnerships Associate at Draper University. Working with Tim Draper on blockchain-related initiatives.",
 						},
 						{
 							h4: 'Bing Liu',
-							h5: 'AI Advisor',
+							h5: 'Distinguished Professor',
 							p1: "AI Advisor,Bing Liu is the professor of computer science who specializes in data mining, machine learning and natural language processing. Two of his research papers published in KDD-1998 and KDD-2004 were received KDD Test-of-Time awards in 2014 and 2015. In 2013, he was elected the chair of SIGKDD, ACM Special Interest Group on Knowledge Discovery and Data Mining. Besides. he is an AI Scientis and the Fellow of IEEE.",
 						},
 						{
 							h4: 'Pierre He',
-							h5: 'Ph.D.',
+							h5: 'Co-Founder of iex.ec',
 							p1: "Co-founder of iex.ec. 100 Talent Professor at the CNIC ​ (Computer Network Information Center)​​",
 						},
 						{
@@ -252,7 +252,7 @@ var app = new Vue({
 						},
 						{
 							h4: 'Liren Chen',
-							h5: 'SEO Expert',
+							h5: 'NLP Scientist',
 							p1: "A former Googler, involved in multi-language search engines, and Google+ for 7 years. Led mobile search at Qihoo 360 and the Pangu search engine. Graduate of Carnegie Mellon University.",
 						},
 						{
@@ -262,7 +262,7 @@ var app = new Vue({
 						},
 						{
 							h4: 'Mingshun Li',
-							h5: 'CEO of GOODCHAIN INC.',
+							h5: 'Angel of Huobi',
 							p1: "CEO of Haorong Global Inc. Founder & CEO of Haodai.com.",
 						},
 					],
